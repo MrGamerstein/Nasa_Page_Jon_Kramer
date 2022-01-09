@@ -1,0 +1,26 @@
+section {
+    
+    display: flex;
+    flex-direction:row;
+    margin-top: 10%;
+  margin-right: 15%;
+  margin-bottom: 1%;
+  margin-left: 15%
+
+}
+
+article {
+    background-color: rgb(180, 188, 196);
+    height: 324px;
+    width: 270px;
+    padding: 50px;
+    
+    text-align: center;
+}
+
+main{
+    margin-top: 10%;
+    margin-right: 15%;
+    margin-bottom: 1%;
+    margin-left: 15%
+}
